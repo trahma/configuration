@@ -2,10 +2,32 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AngularJS",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"Laravel Blade Highlighter",
+		"Markdown Preview",
+		"MarkdownTOC",
+		"Phpcs",
+		"Pretty JSON",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeGit",
 		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jsl",
+		"SublimeLinter-json",
+		"SublimeLinter-phpcs",
+		"Theme - Eightlime",
+		"Theme - Nexus",
 		"Theme - Soda",
-		"Theme - Sodarized"
+		"Theme - Sodarized",
+		"Theme - Spacegray",
+		"URLEncode",
+		"Whitespace"
 	]
 }
